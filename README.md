@@ -9,4 +9,9 @@
 
 ![image](https://github.com/Sujeet597/atticbits-node-backend/assets/75562365/ba9797db-a170-432d-af1c-3b39417cec47)
 
+# get-all-user
+
+![image](https://github.com/Sujeet597/atticbits-node-backend/assets/75562365/764cd517-1fa8-4792-a97d-6bb4288b376d)
+
+
 
